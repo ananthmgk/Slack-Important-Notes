@@ -20,3 +20,6 @@ git status
 - Git → `atlassian .com/git`
 
 `https://www.codementor.io/projects/web/alpaca-image-generator-website-ce2oc0eus8`
+
+### Ramo notes method.
+`http://github.com/Ramo/terraform-notes`
