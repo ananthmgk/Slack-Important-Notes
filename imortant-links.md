@@ -21,5 +21,13 @@ git status
 
 `https://www.codementor.io/projects/web/alpaca-image-generator-website-ce2oc0eus8`
 
+`https://github.com/caaatisgood/alpaca-generator`
+`caaatisgood/alpaca-generator`
+An example solution of the "Alpaca Generator" project by DevProjects
+Website
+`https://alpaca-generator.netlify.app/`
+
+`https://alpaca-generator.netlify.app`
+
 ### Ramo notes method.
 `http://github.com/Ramo/terraform-notes`
