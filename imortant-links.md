@@ -12,11 +12,11 @@ git status
   "editor.guides.bracketPairs": "active",
 ```
 
-HTML → `w3schools .com/html/`
-CSS → `web .dev/learn/css/`
-JavaScript → `github .com/jumaschion/You-Dont-Know-JS-1`
-React → `scrimba .com/learn/learnreact`
-API → `rapidApi .com/learn`
-Git → `atlassian .com/git`
+- HTML → `w3schools .com/html/`
+- CSS → `web .dev/learn/css/`
+- JavaScript → `github .com/jumaschion/You-Dont-Know-JS-1`
+- React → `scrimba .com/learn/learnreact`
+- API → `rapidApi .com/learn`
+- Git → `atlassian .com/git`
 
 `https://www.codementor.io/projects/web/alpaca-image-generator-website-ce2oc0eus8`
